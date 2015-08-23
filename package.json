@@ -1,0 +1,14 @@
+{
+  "name": "hearthstone-tco-calculator",
+  "version": "0.0.1",
+  "description": "script to calculate total number of packs that need to be bought to craft every craftable card in hearthstone",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
